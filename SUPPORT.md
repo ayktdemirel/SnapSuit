@@ -25,7 +25,7 @@ When you get in touch, it helps to include:
 
 ### How does SnapSuit generate headshots?
 
-You provide 3 to 10 reference selfies. SnapSuit sends them to an AI image model that produces new portraits of you in the outfit, lighting, and setting you chose — tailored suits, cashmere blazers, city streetscapes, modern boardrooms, architectural lofts, and more.
+You provide 3 reference selfies. SnapSuit sends them to an AI image model that produces new portraits of you in the outfit, lighting, and setting you chose — tailored suits, cashmere blazers, city streetscapes, modern boardrooms, architectural lofts, and more.
 
 The results are AI-generated images, not photographs. They are designed to look like you, but they will not match your real appearance perfectly.
 
@@ -41,12 +41,12 @@ Your credit is protected. If generation fails because of a network or server pro
 
 ### How do credits work?
 
-- **1 credit = 1 photoshoot**, with full choice of outfit, colour, expression, hairstyle, backdrop, and accessories.
-- **New accounts start with 1 free credit**, so you can try SnapSuit before paying anything.
+- **1 photoshoot costs 10 credits**, with full choice of outfit, colour, expression, hairstyle, backdrop, and accessories.
+- **New accounts start with 10 free credits** — one complete photoshoot, so you can try SnapSuit before paying anything.
 - Additional credits are available as In-App Purchases:
-  - **Quick Look** — 5 credits
-  - **Executive Pro** — 15 credits (most popular)
-  - **Career Suite** — 35 credits (best value)
+  - **Quick Look** — 50 credits (5 photoshoots)
+  - **Executive Pro** — 150 credits (15 photoshoots, most popular)
+  - **Career Suite** — 350 credits (35 photoshoots, best value)
 
 Prices are shown in your local currency in the app. Credits never expire while your account is open, and are forfeited if you delete your account.
 
@@ -92,8 +92,7 @@ One thing to be aware of: your generated portraits are served from unlisted publ
 
 AI generation works best with varied, well-lit, close-up photos. For the best likeness:
 
-- Use 5 or more photos rather than the minimum of 3
-- Vary the background, clothing, and expression between shots
+- Vary the background, clothing, and expression across your three shots
 - Make sure your face is clearly visible and in focus
 - Avoid sunglasses, hats, masks, heavy shadows, and group photos
 

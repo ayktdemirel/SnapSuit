@@ -27,8 +27,8 @@ You may delete your account at any time from **Profile → Delete Account**, or 
 
 **How credits work**
 
-- One credit produces one photoshoot.
-- New accounts receive **one free credit** so you can try the app before paying.
+- One photoshoot costs 10 credits.
+- New accounts receive **10 free credits** — one complete photoshoot — so you can try the app before paying.
 - Additional credits are sold in packs through Apple's In-App Purchase system.
 - Credits have no cash value, cannot be transferred between accounts, exchanged for money, or redeemed outside the app.
 - Credits do not expire while your account is open. They are forfeited if your account is deleted.

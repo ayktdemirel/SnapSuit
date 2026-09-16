@@ -34,7 +34,7 @@ We never receive or store your password for any of these services.
 
 ### 2.2 Photos you upload
 
-To generate a headshot you provide 3 to 10 photos, either from your photo library or taken in the app. These are uploaded to our storage and sent to our AI processing provider (see §4) to produce your portraits.
+To generate a headshot you provide 3 photos, either from your photo library or taken in the app. These are uploaded to our storage and sent to our AI processing provider (see §4) to produce your portraits.
 
 The app includes an optional guided camera that detects the position of a face to help you frame a shot. **This detection runs entirely on your device**, and the framing data is never transmitted to us or to anyone else.
 
