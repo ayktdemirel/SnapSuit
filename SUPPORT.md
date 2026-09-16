@@ -69,8 +69,8 @@ We have no ability to issue App Store refunds ourselves.
 ### How do I delete my photos or my account?
 
 - **Remove a portrait from your gallery**: open it in your gallery and tap the delete icon. This removes it from the app.
-- **Delete your account**: go to **Profile → Delete Account**. This removes your sign-in credentials and signs you out permanently.
-- **Erase everything we hold**: email [support@snapsuit.app](mailto:support@snapsuit.app) from your account's email address. We will delete your account record, uploaded photos, and generated headshots within 30 days and confirm once it's done.
+- **Delete your account and all your data**: go to **Profile → Delete Account**. This permanently removes your profile, your remaining credits, every photo you uploaded and every headshot we generated. It is immediate and cannot be undone.
+- **Prefer to ask us instead?** Email [support@snapsuit.app](mailto:support@snapsuit.app) from your account's email address and we'll complete the same erasure within 30 days.
 
 Full detail is in our [Privacy Policy](PRIVACY.md).
 
@@ -80,7 +80,7 @@ They're used for one thing: generating the portraits you asked for. They are sto
 
 We never sell or trade your photos, we don't use them to train AI models, and SnapSuit contains **no analytics, tracking, or advertising software** of any kind.
 
-Your photos are kept until you ask us to erase them — see the question above.
+Your photos are kept until you delete your account, which erases them immediately — see the question above.
 
 ### Is my data secure?
 

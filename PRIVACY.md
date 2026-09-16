@@ -15,7 +15,7 @@ SnapSuit is operated by Aykut Demirel, an independent developer. For any privacy
 - Your photos are used for one purpose only: generating the headshots you ask for.
 - **We do not run any advertising, analytics, or tracking software.** SnapSuit contains no third-party trackers and no advertising identifiers.
 - We never sell, rent, or trade your photos or personal information.
-- You can request full deletion of your data at any time by emailing us.
+- You can permanently delete your account and all of your data from inside the app at any time.
 
 ---
 
@@ -117,9 +117,9 @@ We keep your account details, uploaded photos, generated headshots, and purchase
 
 Deleting an individual portrait in the app removes it from your gallery, but a copy is retained in our storage until your data is erased.
 
-**To have your data erased,** email **[support@snapsuit.app](mailto:support@snapsuit.app)** from the address associated with your account. We will delete your account record, uploaded photos, and generated headshots within **30 days** and confirm when it is done.
+**To erase everything, use Profile → Delete Account in the app.** This permanently deletes your profile, your credit balance, every photo you uploaded, and every headshot we generated for you. It happens immediately and cannot be undone.
 
-Using **Profile → Delete Account** in the app removes your sign-in credentials and signs you out permanently. It does not by itself erase photos already stored on our servers — please use the email route above if you want everything removed.
+If you would rather not use the app, email **[support@snapsuit.app](mailto:support@snapsuit.app)** from the address associated with your account and we will complete the same erasure within **30 days**.
 
 We retain purchase records for as long as tax and accounting rules require, even after your other data is deleted. These records contain no photos.
 
