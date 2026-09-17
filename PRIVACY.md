@@ -5,7 +5,7 @@
 
 This Privacy Policy explains how the Suitframe mobile application ("Suitframe", "the app", "we", "us") handles your information.
 
-Suitframe is operated by Aykut Demirel, an independent developer. For any privacy question or request, contact **[ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)**.
+Suitframe is operated by Aykut Demirel, an independent developer based in Tallinn, Estonia, who is the data controller for the purposes of the EU General Data Protection Regulation (GDPR). For any privacy question or request, contact **[ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)**.
 
 ---
 
@@ -94,7 +94,9 @@ We use a small number of service providers. They process data on our instruction
 | **Apple** | In-app purchase processing and, if you use it, Sign in with Apple | United States |
 | **LinkedIn / Google** | Only if you choose that sign-in method — they confirm your identity to us | United States |
 
-If you are located outside the United States, your information is transferred to and processed in the United States.
+Suitframe is operated from Estonia, and these providers process data in the United States. If you are in the European Economic Area or the United Kingdom, this means your information is transferred outside that area.
+
+Such transfers rely on the European Commission's adequacy decision for the EU–US Data Privacy Framework where the provider is certified under it, and otherwise on Standard Contractual Clauses. You may request details of the safeguards applying to a specific provider by emailing us.
 
 We do not sell your personal information, and we do not share it for cross-context behavioural advertising.
 
@@ -163,8 +165,8 @@ If we make a material change, we will update the "Last updated" date above and, 
 
 ## 11. Contact
 
+**Data controller:** Aykut Demirel
+**Location:** Tallinn, Estonia
 **Email:** [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)
-**Developer:** Aykut Demirel
 
-<!-- TODO before publishing: add your business postal address and the governing jurisdiction.
-     Both are required for GDPR compliance and are commonly checked during App Store review. -->
+If you are in the EEA and believe we have not handled your data lawfully, you may lodge a complaint with the Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon, [aki.ee](https://www.aki.ee/en)) or with the supervisory authority where you live.

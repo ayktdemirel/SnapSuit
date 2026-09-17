@@ -116,8 +116,14 @@ We may update these Terms. Material changes will be reflected in the "Last updat
 
 ## 11. Contact
 
-**Email:** [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)
 **Developer:** Aykut Demirel
+**Location:** Tallinn, Estonia
+**Email:** [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)
 
-<!-- TODO before publishing: add the governing law and the courts that will hear disputes,
-     plus your business postal address. -->
+---
+
+## 12. Governing law
+
+These Terms are governed by the laws of the Republic of Estonia, and disputes will be heard by the courts of Estonia.
+
+If you are a consumer resident in the European Union, this does not deprive you of the protection of mandatory consumer-law provisions of your own country, and you may also bring proceedings in the courts where you live.
