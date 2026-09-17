@@ -1,10 +1,10 @@
-# SnapSuit
+# Suitframe
 
 **AI Headshots & Executive Portraits for iOS**
 
-SnapSuit turns a handful of everyday selfies into studio-quality professional headshots — tailored outfits, studio lighting, and executive backdrops — in about a minute.
+Suitframe turns a handful of everyday selfies into studio-quality professional headshots — tailored outfits, studio lighting, and executive backdrops — in about a minute.
 
-This repository hosts the public support and legal documents for the SnapSuit iOS app.
+This repository hosts the public support and legal documents for the Suitframe iOS app.
 
 ---
 

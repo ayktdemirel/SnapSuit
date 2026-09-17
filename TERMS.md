@@ -3,15 +3,15 @@
 **Effective date:** 16 September 2026
 **Last updated:** 16 September 2026
 
-These Terms govern your use of the SnapSuit mobile application ("SnapSuit", "the app"), operated by Aykut Demirel ("we", "us").
+These Terms govern your use of the Suitframe mobile application ("Suitframe", "the app"), operated by Aykut Demirel ("we", "us").
 
-By downloading or using SnapSuit, you agree to these Terms. If you do not agree, do not use the app.
+By downloading or using Suitframe, you agree to these Terms. If you do not agree, do not use the app.
 
 ---
 
 ## 1. Eligibility
 
-You must be at least 13 years old to use SnapSuit. If you are under the age of majority where you live, you may only use the app with the involvement of a parent or guardian.
+You must be at least 13 years old to use Suitframe. If you are under the age of majority where you live, you may only use the app with the involvement of a parent or guardian.
 
 ---
 
@@ -56,7 +56,7 @@ You agree that you will **not**:
 
 - upload photos of another person without their consent, including public figures
 - upload photos of minors
-- use SnapSuit to impersonate anyone, create misleading or deceptive imagery, or produce content intended to defraud
+- use Suitframe to impersonate anyone, create misleading or deceptive imagery, or produce content intended to defraud
 - upload unlawful, hateful, harassing, sexually explicit, or violent content
 - attempt to reverse-engineer, decompile, overload, or circumvent any part of the service, including its credit system
 - use automated means to access the app or resell access to it
@@ -67,7 +67,7 @@ We may suspend or terminate your account for violations, without refund.
 
 ## 5. AI-generated content
 
-SnapSuit produces images using artificial intelligence. You should understand:
+Suitframe produces images using artificial intelligence. You should understand:
 
 - Output is generated and **not a photograph of a real moment**. It may differ from your actual appearance, clothing, or surroundings.
 - Results vary with the quality and variety of the photos you provide. We cannot guarantee any particular outcome, likeness, or level of quality.
@@ -82,25 +82,25 @@ SnapSuit produces images using artificial intelligence. You should understand:
 
 **Generated portraits** are yours to use, including commercially — for your CV, professional profiles, company website, or similar. We claim no ownership over them.
 
-We retain all rights in the SnapSuit app itself: its software, design, branding, and the styling presets it offers.
+We retain all rights in the Suitframe app itself: its software, design, branding, and the styling presets it offers.
 
 ---
 
 ## 7. Availability
 
-We aim to keep SnapSuit running reliably, but we do not guarantee uninterrupted availability. We may modify, suspend, or discontinue any part of the service. If we discontinue the service entirely, we will give reasonable notice where practical so you can download your portraits.
+We aim to keep Suitframe running reliably, but we do not guarantee uninterrupted availability. We may modify, suspend, or discontinue any part of the service. If we discontinue the service entirely, we will give reasonable notice where practical so you can download your portraits.
 
 ---
 
 ## 8. Disclaimer of warranties
 
-SnapSuit is provided **"as is" and "as available"**, without warranties of any kind, whether express or implied, including any implied warranties of merchantability, fitness for a particular purpose, accuracy, or non-infringement.
+Suitframe is provided **"as is" and "as available"**, without warranties of any kind, whether express or implied, including any implied warranties of merchantability, fitness for a particular purpose, accuracy, or non-infringement.
 
 ---
 
 ## 9. Limitation of liability
 
-To the fullest extent permitted by law, our total liability arising out of or relating to SnapSuit will not exceed the greater of (a) the amount you paid us in the twelve months before the claim, or (b) USD 50.
+To the fullest extent permitted by law, our total liability arising out of or relating to Suitframe will not exceed the greater of (a) the amount you paid us in the twelve months before the claim, or (b) USD 50.
 
 We are not liable for indirect, incidental, special, consequential, or punitive damages, including lost profits, lost opportunities, or reputational harm arising from your use of generated images.
 
@@ -110,7 +110,7 @@ Some jurisdictions do not allow certain limitations, so parts of this section ma
 
 ## 10. Changes to these Terms
 
-We may update these Terms. Material changes will be reflected in the "Last updated" date above and, where they significantly affect you, notified in the app. Continuing to use SnapSuit after a change means you accept the revised Terms.
+We may update these Terms. Material changes will be reflected in the "Last updated" date above and, where they significantly affect you, notified in the app. Continuing to use Suitframe after a change means you accept the revised Terms.
 
 ---
 

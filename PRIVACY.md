@@ -3,9 +3,9 @@
 **Effective date:** 16 September 2026
 **Last updated:** 16 September 2026
 
-This Privacy Policy explains how the SnapSuit mobile application ("SnapSuit", "the app", "we", "us") handles your information.
+This Privacy Policy explains how the Suitframe mobile application ("Suitframe", "the app", "we", "us") handles your information.
 
-SnapSuit is operated by Aykut Demirel, an independent developer. For any privacy question or request, contact **[ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)**.
+Suitframe is operated by Aykut Demirel, an independent developer. For any privacy question or request, contact **[ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)**.
 
 ---
 
@@ -13,7 +13,7 @@ SnapSuit is operated by Aykut Demirel, an independent developer. For any privacy
 
 - We collect the photos you choose to upload, basic account details from your chosen sign-in provider, and a record of your in-app purchases.
 - Your photos are used for one purpose only: generating the headshots you ask for.
-- **We do not run any advertising, analytics, or tracking software.** SnapSuit contains no third-party trackers and no advertising identifiers.
+- **We do not run any advertising, analytics, or tracking software.** Suitframe contains no third-party trackers and no advertising identifiers.
 - We never sell, rent, or trade your photos or personal information.
 - You can permanently delete your account and all of your data from inside the app at any time.
 
@@ -40,7 +40,7 @@ The app includes an optional guided camera that detects the position of a face t
 
 ### 2.3 Generated headshots
 
-The portraits SnapSuit produces for you are stored in our cloud storage so they remain available in your in-app gallery.
+The portraits Suitframe produces for you are stored in our cloud storage so they remain available in your in-app gallery.
 
 **Please note:** generated images are currently served from an unlisted public URL. The link is not published anywhere and is not indexed by search engines, but anyone who obtains the exact link could view that image. Do not share these links with people you do not want to see the image.
 
@@ -102,7 +102,7 @@ We do not sell your personal information, and we do not share it for cross-conte
 
 ## 5. Facial images
 
-SnapSuit processes images of your face in order to generate portraits that resemble you. We want to be precise about what that does and does not mean:
+Suitframe processes images of your face in order to generate portraits that resemble you. We want to be precise about what that does and does not mean:
 
 - We use your photos to produce new images. The processing is image-to-image generation.
 - **We do not create, derive, or store a faceprint, face template, or other biometric identifier**, and we do not use facial recognition to identify you or match you against any database.
@@ -151,13 +151,13 @@ No system is perfectly secure. Please see §2.3 regarding the public-link behavi
 
 ## 9. Children
 
-SnapSuit is not directed to children. You must be at least 13 years old to use it. We do not knowingly collect information from children under 13. If you believe a child has provided us with information, contact us and we will delete it.
+Suitframe is not directed to children. You must be at least 13 years old to use it. We do not knowingly collect information from children under 13. If you believe a child has provided us with information, contact us and we will delete it.
 
 ---
 
 ## 10. Changes to this policy
 
-If we make a material change, we will update the "Last updated" date above and, where the change significantly affects you, provide notice in the app. Continuing to use SnapSuit after a change means you accept the updated policy.
+If we make a material change, we will update the "Last updated" date above and, where the change significantly affects you, provide notice in the app. Continuing to use Suitframe after a change means you accept the updated policy.
 
 ---
 

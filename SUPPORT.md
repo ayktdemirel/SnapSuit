@@ -1,6 +1,6 @@
-# SnapSuit — Support & Help Center
+# Suitframe — Support & Help Center
 
-Welcome to the official support page for **SnapSuit: AI Headshots & Executive Portraits**.
+Welcome to the official support page for **Suitframe: AI Headshots & Executive Portraits**.
 
 If you have a question, hit a problem, or need help with your account, we're here.
 
@@ -23,9 +23,9 @@ When you get in touch, it helps to include:
 
 ## Frequently asked questions
 
-### How does SnapSuit generate headshots?
+### How does Suitframe generate headshots?
 
-You provide 3 reference selfies. SnapSuit sends them to an AI image model that produces new portraits of you in the outfit, lighting, and setting you chose — tailored suits, cashmere blazers, city streetscapes, modern boardrooms, architectural lofts, and more.
+You provide 3 reference selfies. Suitframe sends them to an AI image model that produces new portraits of you in the outfit, lighting, and setting you chose — tailored suits, cashmere blazers, city streetscapes, modern boardrooms, architectural lofts, and more.
 
 The results are AI-generated images, not photographs. They are designed to look like you, but they will not match your real appearance perfectly.
 
@@ -42,7 +42,7 @@ Your credit is protected. If generation fails because of a network or server pro
 ### How do credits work?
 
 - **1 photoshoot costs 10 credits**, with full choice of outfit, colour, expression, hairstyle, backdrop, and accessories.
-- **New accounts start with 10 free credits** — one complete photoshoot, so you can try SnapSuit before paying anything.
+- **New accounts start with 10 free credits** — one complete photoshoot, so you can try Suitframe before paying anything.
 - Additional credits are available as In-App Purchases:
   - **Quick Look** — 50 credits (5 photoshoots)
   - **Executive Pro** — 150 credits (15 photoshoots, most popular)
@@ -78,7 +78,7 @@ Full detail is in our [Privacy Policy](PRIVACY.md).
 
 They're used for one thing: generating the portraits you asked for. They are stored in our cloud storage and sent to our AI processing provider to create your images.
 
-We never sell or trade your photos, we don't use them to train AI models, and SnapSuit contains **no analytics, tracking, or advertising software** of any kind.
+We never sell or trade your photos, we don't use them to train AI models, and Suitframe contains **no analytics, tracking, or advertising software** of any kind.
 
 Your photos are kept until you delete your account, which erases them immediately — see the question above.
 
@@ -110,4 +110,4 @@ LinkedIn, Google, and Sign in with Apple.
 ---
 
 © 2026 Aykut Demirel. All rights reserved.
-SnapSuit is an independent application for professional profile photography.
+Suitframe is an independent application for professional profile photography.
