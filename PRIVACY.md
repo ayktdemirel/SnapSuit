@@ -5,7 +5,7 @@
 
 This Privacy Policy explains how the SnapSuit mobile application ("SnapSuit", "the app", "we", "us") handles your information.
 
-SnapSuit is operated by Aykut Demirel, an independent developer. For any privacy question or request, contact **[support@snapsuit.app](mailto:support@snapsuit.app)**.
+SnapSuit is operated by Aykut Demirel, an independent developer. For any privacy question or request, contact **[ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)**.
 
 ---
 
@@ -119,7 +119,7 @@ Deleting an individual portrait in the app removes it from your gallery, but a c
 
 **To erase everything, use Profile → Delete Account in the app.** This permanently deletes your profile, your credit balance, every photo you uploaded, and every headshot we generated for you. It happens immediately and cannot be undone.
 
-If you would rather not use the app, email **[support@snapsuit.app](mailto:support@snapsuit.app)** from the address associated with your account and we will complete the same erasure within **30 days**.
+If you would rather not use the app, email **[ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)** from the address associated with your account and we will complete the same erasure within **30 days**.
 
 We retain purchase records for as long as tax and accounting rules require, even after your other data is deleted. These records contain no photos.
 
@@ -137,7 +137,7 @@ Depending on where you live, you may have the right to:
 - withdraw consent at any time, where processing is based on consent
 - lodge a complaint with your local data protection authority
 
-To exercise any of these, email **[support@snapsuit.app](mailto:support@snapsuit.app)**. We will respond within 30 days and will not charge you or degrade your service for making a request.
+To exercise any of these, email **[ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)**. We will respond within 30 days and will not charge you or degrade your service for making a request.
 
 ---
 
@@ -163,7 +163,7 @@ If we make a material change, we will update the "Last updated" date above and, 
 
 ## 11. Contact
 
-**Email:** [support@snapsuit.app](mailto:support@snapsuit.app)
+**Email:** [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)
 **Developer:** Aykut Demirel
 
 <!-- TODO before publishing: add your business postal address and the governing jurisdiction.

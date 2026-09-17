@@ -19,7 +19,7 @@ You must be at least 13 years old to use SnapSuit. If you are under the age of m
 
 You sign in through LinkedIn, Google, or Apple. You are responsible for keeping access to that account secure, and for activity that happens under it.
 
-You may delete your account at any time from **Profile → Delete Account**, or by emailing [support@snapsuit.app](mailto:support@snapsuit.app). See the [Privacy Policy](PRIVACY.md) for what happens to your data.
+You may delete your account at any time from **Profile → Delete Account**, or by emailing [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com). See the [Privacy Policy](PRIVACY.md) for what happens to your data.
 
 ---
 
@@ -116,7 +116,7 @@ We may update these Terms. Material changes will be reflected in the "Last updat
 
 ## 11. Contact
 
-**Email:** [support@snapsuit.app](mailto:support@snapsuit.app)
+**Email:** [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)
 **Developer:** Aykut Demirel
 
 <!-- TODO before publishing: add the governing law and the courts that will hear disputes,

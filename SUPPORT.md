@@ -8,7 +8,7 @@ If you have a question, hit a problem, or need help with your account, we're her
 
 ## Contact support
 
-- **Email**: [support@snapsuit.app](mailto:support@snapsuit.app)
+- **Email**: [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)
 - **GitHub Issues**: [Submit an issue](https://github.com/ayktdemirel/SnapSuit/issues)
 - **Developer**: Aykut Demirel
 - **Response time**: We aim to reply within 24 hours.
@@ -70,7 +70,7 @@ We have no ability to issue App Store refunds ourselves.
 
 - **Remove a portrait from your gallery**: open it in your gallery and tap the delete icon. This removes it from the app.
 - **Delete your account and all your data**: go to **Profile → Delete Account**. This permanently removes your profile, your remaining credits, every photo you uploaded and every headshot we generated. It is immediate and cannot be undone.
-- **Prefer to ask us instead?** Email [support@snapsuit.app](mailto:support@snapsuit.app) from your account's email address and we'll complete the same erasure within 30 days.
+- **Prefer to ask us instead?** Email [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com) from your account's email address and we'll complete the same erasure within 30 days.
 
 Full detail is in our [Privacy Policy](PRIVACY.md).
 

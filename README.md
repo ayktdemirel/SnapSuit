@@ -20,7 +20,7 @@ This repository hosts the public support and legal documents for the SnapSuit iO
 
 ## Contact
 
-- **Email**: [support@snapsuit.app](mailto:support@snapsuit.app)
+- **Email**: [ayktdemirel@gmail.com](mailto:ayktdemirel@gmail.com)
 - **Issues**: [Open a support issue](https://github.com/ayktdemirel/SnapSuit/issues)
 - **Developer**: Aykut Demirel
 
