@@ -163,6 +163,12 @@ If we make a material change, we will update the "Last updated" date above and, 
 
 ---
 
+## Language
+
+The Suitframe app is available in several languages. This document is provided in English only, and the English version is the authoritative text. Any translation of the app's interface is offered for convenience and does not change the meaning of this document.
+
+---
+
 ## 11. Contact
 
 **Data controller:** Aykut Demirel

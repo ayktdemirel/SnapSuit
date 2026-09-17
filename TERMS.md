@@ -114,6 +114,12 @@ We may update these Terms. Material changes will be reflected in the "Last updat
 
 ---
 
+## Language
+
+The Suitframe app is available in several languages. This document is provided in English only, and the English version is the authoritative text. Any translation of the app's interface is offered for convenience and does not change the meaning of this document.
+
+---
+
 ## 11. Contact
 
 **Developer:** Aykut Demirel
