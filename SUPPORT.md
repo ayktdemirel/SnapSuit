@@ -76,11 +76,15 @@ Full detail is in our [Privacy Policy](PRIVACY.md).
 
 ### What happens to my selfies?
 
-They're used for one thing: generating the portraits you asked for. They are stored in our cloud storage and sent to our AI processing provider to create your images.
+They're used for one thing: generating the portraits you asked for. Before your first photoshoot, the app asks for your agreement and explains exactly where your photos go. They are uploaded to our cloud storage and sent to our AI processing provider, fal.ai, in the United States to create your images.
 
 We never sell or trade your photos, we don't use them to train AI models, and Suitframe contains **no analytics, tracking, or advertising software** of any kind.
 
-Your photos are kept until you delete your account, which erases them immediately — see the question above.
+**Your original selfies are permanently deleted from our servers within 24 hours**, automatically. The portraits generated from them stay in your gallery until you delete them or your account.
+
+### Why was my photoshoot blocked?
+
+Every generated portrait is automatically screened for explicit or inappropriate content before it reaches you. If a result is flagged, it is discarded, and your credit is returned automatically. This occasionally happens by mistake with ordinary photos. Retaking your selfies with a plain background and everyday clothing usually fixes it.
 
 ### Is my data secure?
 

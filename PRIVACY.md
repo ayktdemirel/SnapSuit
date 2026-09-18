@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective date:** 16 September 2026
-**Last updated:** 16 September 2026
+**Last updated:** 19 September 2026
 
 This Privacy Policy explains how the Suitframe mobile application ("Suitframe", "the app", "we", "us") handles your information.
 
@@ -36,11 +36,15 @@ We never receive or store your password for any of these services.
 
 To generate a headshot you provide 3 photos, either from your photo library or taken in the app. These are uploaded to our storage and sent to our AI processing provider (see §4) to produce your portraits.
 
+**Nothing is uploaded until you agree.** Before your first photoshoot, the app shows a separate consent screen explaining who receives your photos, what they are used for, and when they are deleted. Your photos leave your device only after you tap "I Agree". If you decline, nothing is sent.
+
 The app includes an optional guided camera that detects the position of a face to help you frame a shot. **This detection runs entirely on your device**, and the framing data is never transmitted to us or to anyone else.
 
 ### 2.3 Generated headshots
 
 The portraits Suitframe produces for you are stored in our cloud storage so they remain available in your in-app gallery.
+
+Before a portrait is delivered, it is automatically screened for sexually explicit or otherwise inappropriate content. Flagged results are discarded without being stored in your gallery, and your credit is refunded. This screening is fully automated; no person looks at your photos or portraits.
 
 **Please note:** generated images are currently served from an unlisted public URL. The link is not published anywhere and is not indexed by search engines, but anyone who obtains the exact link could view that image. Do not share these links with people you do not want to see the image.
 
@@ -73,7 +77,8 @@ We do not collect your location, contacts, calendar, health data, browsing histo
 
 | Purpose | Data used | Legal basis (GDPR) |
 | --- | --- | --- |
-| Generating the headshots you request | Uploaded photos, style selections | Performance of a contract |
+| Generating the headshots you request | Uploaded photos, style selections | Your consent, given in the app before upload, and performance of a contract |
+| Screening generated images for inappropriate content | Generated portraits | Legitimate interests (keeping the service safe) |
 | Maintaining your account and credit balance | Account details, purchase records | Performance of a contract |
 | Notifying you that a photoshoot is ready | Push token | Consent (you may withdraw it) |
 | Preventing fraudulent or duplicated purchases | Purchase records | Legitimate interests |
@@ -115,7 +120,9 @@ Suitframe processes images of your face in order to generate portraits that rese
 
 ## 6. How long we keep your information
 
-We keep your account details, uploaded photos, generated headshots, and purchase records for as long as your account exists.
+**The photos you upload are permanently deleted from our servers within 24 hours.** We keep them that briefly so a failed portrait can be retried; after that they are erased automatically, whether or not you ask.
+
+We keep your account details, generated headshots, and purchase records for as long as your account exists.
 
 Deleting an individual portrait in the app removes it from your gallery, but a copy is retained in our storage until your data is erased.
 

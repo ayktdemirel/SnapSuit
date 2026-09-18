@@ -1,7 +1,7 @@
 # Terms of Service
 
 **Effective date:** 16 September 2026
-**Last updated:** 16 September 2026
+**Last updated:** 19 September 2026
 
 These Terms govern your use of the Suitframe mobile application ("Suitframe", "the app"), operated by Aykut Demirel ("we", "us").
 
@@ -35,7 +35,7 @@ You may delete your account at any time from **Profile → Delete Account**, or 
 
 **If a photoshoot fails**
 
-If generation fails on our side, the credit is returned to your balance automatically. If a credit is deducted and you receive no usable result, contact us and we will restore it.
+If generation fails on our side, or a result is blocked by our content screening (see §4), the credit is returned to your balance automatically. If a credit is deducted and you receive no usable result, contact us and we will restore it.
 
 **Payments and refunds**
 
@@ -61,6 +61,8 @@ You agree that you will **not**:
 - attempt to reverse-engineer, decompile, overload, or circumvent any part of the service, including its credit system
 - use automated means to access the app or resell access to it
 
+**Content screening.** Every generated image is automatically screened for sexually explicit or otherwise inappropriate content before it is shown to you. Flagged results are discarded and never delivered. Screening is automated and may occasionally block an ordinary image; when that happens your credit is returned.
+
 We may suspend or terminate your account for violations, without refund.
 
 ---
@@ -78,7 +80,7 @@ Suitframe produces images using artificial intelligence. You should understand:
 
 ## 6. Rights in images
 
-**Your photos** remain yours. By uploading them you grant us a limited licence to store and process them solely to provide the service to you. This licence ends when your data is deleted. We do not use your photos to train AI models.
+**Your photos** remain yours. By uploading them you grant us a limited licence to store and process them solely to provide the service to you. This licence ends when they are deleted, which happens automatically within 24 hours of upload. We do not use your photos to train AI models.
 
 **Generated portraits** are yours to use, including commercially — for your CV, professional profiles, company website, or similar. We claim no ownership over them.
 
